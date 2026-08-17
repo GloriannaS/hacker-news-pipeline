@@ -77,3 +77,6 @@ Analyzing the pipeline output provides a compelling look into developer interest
 
 ---
 
+View this project live on Google Colab [here](https://colab.research.google.com/drive/1ipc0MG0TT0mDVmwbh1YZc2lxW6NV8cVX?usp=sharing)
+
+[![Pipeline Project Image](pipeline-project-image.png)](https://colab.research.google.com/drive/1ipc0MG0TT0mDVmwbh1YZc2lxW6NV8cVX?usp=sharing)
